@@ -1,19 +1,19 @@
 {
-  "name": "heisenbergbe",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ptlsb/HeisenbergBE.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ptlsb/HeisenbergBE/issues"
-  },
-  "homepage": "https://github.com/ptlsb/HeisenbergBE#readme"
+    "name": "heisenbergbe",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ptlsb/HeisenbergBE.git"
+    },
+    "author": "Kushagra Patel",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ptlsb/HeisenbergBE/issues"
+    },
+    "homepage": "https://github.com/ptlsb/HeisenbergBE#readme"
 }
